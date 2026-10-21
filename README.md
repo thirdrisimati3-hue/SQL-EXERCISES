@@ -1,0 +1,2 @@
+# SQL-EXERCISES
+Hand written 
